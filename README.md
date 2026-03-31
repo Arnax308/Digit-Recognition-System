@@ -1,17 +1,20 @@
-# 🧠✨ Digit Recognition System (No Cap) 🧢
+# Digit Recognition System
 
-Yo guys! Welcome to the illest Digit Recognition System out there. This repo is literally built different 🔥
+Welcome to the Digit Recognition System repository. This project utilizes machine learning techniques to perform real-time recognition of handwritten digits.
 
-## What's the tea? ☕️
-We're recognizing handwritten digits using Machine Learning. It's giving major big brain energy. 
+## Overview
+This system is designed to provide an efficient and accurate method for recognizing digits using neural networks. 
 
-## The Vibe Check (Files) 💅
-- **`project.py`**: The main character. This handles the actual digit recognition process.
-- **`model-cnn.py`**: The brains behind the operation. A Convolutional Neural Network (CNN) that actually knows its stuff. It completely understood the assignment. 💯
+## Project Structure
+- **`project.py`**: The main application script that handles the real-time digit recognition interface and usage logic.
+- **`model-cnn.py`**: The underlying machine learning model implementation, featuring a Convolutional Neural Network (CNN) trained for high accuracy on digit classification tasks.
 
-## How to run this drip 🏃‍♂️💨
-1. Install your dependencies, bestie. You ain't getting nowhere without 'em.
-2. Run `python project.py` and watch the magic happen.
+## Getting Started
+1. Ensure you have the necessary dependencies installed in your Python environment.
+2. Run the main processing script:
+   ```bash
+   python project.py
+   ```
 
-## Stay toxic... I mean, stay coding ✌️
-Feel free to fork, clone, and vibe check the code. PRs are welcome if they pass the drip check. Sheesh!
+## Contributing
+Contributions to improve the system or model are welcome. Please feel free to open issues or submit pull requests.
